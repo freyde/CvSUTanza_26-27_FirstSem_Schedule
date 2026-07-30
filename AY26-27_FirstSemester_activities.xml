@@ -4,7 +4,7 @@
     <Id>1</Id>
     <Day>Thu</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>2</Id>
@@ -16,13 +16,13 @@
     <Id>3</Id>
     <Day>Fri</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>4</Id>
     <Day>Wed</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>5</Id>
@@ -40,13 +40,13 @@
     <Id>7</Id>
     <Day>Wed</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>8</Id>
     <Day>Tue</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>9</Id>
@@ -64,13 +64,13 @@
     <Id>11</Id>
     <Day>Wed</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>12</Id>
     <Day>Mon</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>13</Id>
@@ -82,13 +82,13 @@
     <Id>14</Id>
     <Day>Mon</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>15</Id>
     <Day>Mon</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>16</Id>
@@ -130,25 +130,25 @@
     <Id>22</Id>
     <Day>Wed</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>23</Id>
     <Day>Mon</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>24</Id>
     <Day>Wed</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>25</Id>
     <Day>Mon</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>26</Id>
@@ -160,7 +160,7 @@
     <Id>27</Id>
     <Day>Wed</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>28</Id>
@@ -172,7 +172,7 @@
     <Id>29</Id>
     <Day>Wed</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>30</Id>
@@ -196,13 +196,13 @@
     <Id>33</Id>
     <Day>Sat</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>34</Id>
     <Day>Wed</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>35</Id>
@@ -214,13 +214,13 @@
     <Id>36</Id>
     <Day>Sat</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>37</Id>
     <Day>Fri</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>38</Id>
@@ -238,7 +238,7 @@
     <Id>40</Id>
     <Day>Thu</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>41</Id>
@@ -250,7 +250,7 @@
     <Id>42</Id>
     <Day>Mon</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>43</Id>
@@ -268,7 +268,7 @@
     <Id>45</Id>
     <Day>Fri</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>46</Id>
@@ -286,13 +286,13 @@
     <Id>48</Id>
     <Day>Thu</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>49</Id>
     <Day>Sat</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>50</Id>
@@ -322,7 +322,7 @@
     <Id>59</Id>
     <Day>Mon</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>60</Id>
@@ -352,19 +352,19 @@
     <Id>64</Id>
     <Day>Thu</Day>
     <Hour>07:00 - 07:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>65</Id>
     <Day>Thu</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>66</Id>
     <Day>Thu</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>67</Id>
@@ -424,7 +424,7 @@
     <Id>76</Id>
     <Day>Thu</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>77</Id>
@@ -454,7 +454,7 @@
     <Id>81</Id>
     <Day>Wed</Day>
     <Hour>07:00 - 07:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>82</Id>
@@ -472,7 +472,7 @@
     <Id>84</Id>
     <Day>Fri</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>85</Id>
@@ -484,7 +484,7 @@
     <Id>86</Id>
     <Day>Thu</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>87</Id>
@@ -496,19 +496,19 @@
     <Id>88</Id>
     <Day>Tue</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>89</Id>
     <Day>Fri</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>90</Id>
     <Day>Fri</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>91</Id>
@@ -526,25 +526,25 @@
     <Id>93</Id>
     <Day>Thu</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>94</Id>
     <Day>Thu</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>95</Id>
     <Day>Thu</Day>
     <Hour>07:00 - 07:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>96</Id>
     <Day>Mon</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>97</Id>
@@ -556,7 +556,7 @@
     <Id>98</Id>
     <Day>Mon</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>99</Id>
@@ -568,19 +568,19 @@
     <Id>100</Id>
     <Day>Mon</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>101</Id>
     <Day>Fri</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>102</Id>
     <Day>Fri</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>103</Id>
@@ -592,7 +592,7 @@
     <Id>104</Id>
     <Day>Fri</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>105</Id>
@@ -610,19 +610,19 @@
     <Id>107</Id>
     <Day>Wed</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>113</Id>
     <Day>Sat</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>114</Id>
     <Day>Wed</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>115</Id>
@@ -634,7 +634,7 @@
     <Id>116</Id>
     <Day>Sat</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>117</Id>
@@ -664,7 +664,7 @@
     <Id>122</Id>
     <Day>Wed</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>123</Id>
@@ -688,7 +688,7 @@
     <Id>126</Id>
     <Day>Mon</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>127</Id>
@@ -700,7 +700,7 @@
     <Id>128</Id>
     <Day>Tue</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>129</Id>
@@ -712,7 +712,7 @@
     <Id>131</Id>
     <Day>Sat</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>132</Id>
@@ -724,7 +724,7 @@
     <Id>133</Id>
     <Day>Tue</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>134</Id>
@@ -784,13 +784,13 @@
     <Id>143</Id>
     <Day>Wed</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>144</Id>
     <Day>Tue</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>145</Id>
@@ -820,13 +820,13 @@
     <Id>149</Id>
     <Day>Tue</Day>
     <Hour>07:00 - 07:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>150</Id>
     <Day>Mon</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>152</Id>
@@ -844,7 +844,7 @@
     <Id>154</Id>
     <Day>Tue</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>155</Id>
@@ -868,7 +868,7 @@
     <Id>158</Id>
     <Day>Tue</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>159</Id>
@@ -904,13 +904,13 @@
     <Id>164</Id>
     <Day>Fri</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>165</Id>
     <Day>Tue</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>166</Id>
@@ -922,7 +922,7 @@
     <Id>167</Id>
     <Day>Fri</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>168</Id>
@@ -1222,7 +1222,7 @@
     <Id>218</Id>
     <Day>Thu</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>219</Id>
@@ -1234,7 +1234,7 @@
     <Id>220</Id>
     <Day>Thu</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>221</Id>
@@ -1246,13 +1246,13 @@
     <Id>222</Id>
     <Day>Tue</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>223</Id>
     <Day>Wed</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>224</Id>
@@ -1264,13 +1264,13 @@
     <Id>225</Id>
     <Day>Tue</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>226</Id>
     <Day>Thu</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>227</Id>
@@ -1288,7 +1288,7 @@
     <Id>229</Id>
     <Day>Mon</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>230</Id>
@@ -1300,7 +1300,7 @@
     <Id>231</Id>
     <Day>Mon</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>232</Id>
@@ -1318,7 +1318,7 @@
     <Id>234</Id>
     <Day>Sat</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>235</Id>
@@ -1330,7 +1330,7 @@
     <Id>236</Id>
     <Day>Mon</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>237</Id>
@@ -1360,7 +1360,7 @@
     <Id>241</Id>
     <Day>Tue</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>242</Id>
@@ -1378,19 +1378,19 @@
     <Id>244</Id>
     <Day>Tue</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>245</Id>
     <Day>Mon</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>246</Id>
     <Day>Thu</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>247</Id>
@@ -1402,13 +1402,13 @@
     <Id>249</Id>
     <Day>Thu</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>250</Id>
     <Day>Thu</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>251</Id>
@@ -1420,13 +1420,13 @@
     <Id>252</Id>
     <Day>Wed</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>253</Id>
     <Day>Thu</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>254</Id>
@@ -1438,13 +1438,13 @@
     <Id>255</Id>
     <Day>Wed</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>256</Id>
     <Day>Mon</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>257</Id>
@@ -1462,7 +1462,7 @@
     <Id>259</Id>
     <Day>Wed</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>260</Id>
@@ -1474,7 +1474,7 @@
     <Id>261</Id>
     <Day>Wed</Day>
     <Hour>07:00 - 07:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>262</Id>
@@ -1492,7 +1492,7 @@
     <Id>264</Id>
     <Day>Thu</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>265</Id>
@@ -1516,7 +1516,7 @@
     <Id>268</Id>
     <Day>Wed</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>269</Id>
@@ -1546,7 +1546,7 @@
     <Id>276</Id>
     <Day>Mon</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>277</Id>
@@ -1558,13 +1558,13 @@
     <Id>278</Id>
     <Day>Mon</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>279</Id>
     <Day>Sat</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>280</Id>
@@ -1576,7 +1576,7 @@
     <Id>281</Id>
     <Day>Mon</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>282</Id>
@@ -1588,25 +1588,25 @@
     <Id>283</Id>
     <Day>Tue</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>284</Id>
     <Day>Sat</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>285</Id>
     <Day>Mon</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>286</Id>
     <Day>Thu</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>287</Id>
@@ -1624,7 +1624,7 @@
     <Id>289</Id>
     <Day>Sat</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>290</Id>
@@ -1636,13 +1636,13 @@
     <Id>291</Id>
     <Day>Tue</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>292</Id>
     <Day>Tue</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>294</Id>
@@ -1654,7 +1654,7 @@
     <Id>295</Id>
     <Day>Thu</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>296</Id>
@@ -1678,7 +1678,7 @@
     <Id>299</Id>
     <Day>Wed</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>300</Id>
@@ -1696,7 +1696,7 @@
     <Id>302</Id>
     <Day>Sat</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>303</Id>
@@ -1708,7 +1708,7 @@
     <Id>304</Id>
     <Day>Tue</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>305</Id>
@@ -1726,13 +1726,13 @@
     <Id>307</Id>
     <Day>Sat</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>308</Id>
     <Day>Sat</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>309</Id>
@@ -1750,31 +1750,31 @@
     <Id>311</Id>
     <Day>Wed</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>312</Id>
     <Day>Tue</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>313</Id>
     <Day>Sat</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>314</Id>
     <Day>Sat</Day>
     <Hour>07:00 - 07:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>315</Id>
     <Day>Sat</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>316</Id>
@@ -1786,7 +1786,7 @@
     <Id>317</Id>
     <Day>Sat</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>318</Id>
@@ -1816,7 +1816,7 @@
     <Id>322</Id>
     <Day>Tue</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>323</Id>
@@ -1828,7 +1828,7 @@
     <Id>324</Id>
     <Day>Sat</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>325</Id>
@@ -1840,13 +1840,13 @@
     <Id>326</Id>
     <Day>Sat</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>327</Id>
     <Day>Wed</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>328</Id>
@@ -1858,13 +1858,13 @@
     <Id>329</Id>
     <Day>Sat</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>330</Id>
     <Day>Sat</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>331</Id>
@@ -1876,7 +1876,7 @@
     <Id>332</Id>
     <Day>Wed</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>333</Id>
@@ -1894,7 +1894,7 @@
     <Id>335</Id>
     <Day>Thu</Day>
     <Hour>07:00 - 07:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>336</Id>
@@ -1906,13 +1906,13 @@
     <Id>337</Id>
     <Day>Wed</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>338</Id>
     <Day>Tue</Day>
     <Hour>07:00 - 07:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>339</Id>
@@ -1936,31 +1936,31 @@
     <Id>342</Id>
     <Day>Sat</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>343</Id>
     <Day>Sat</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>344</Id>
     <Day>Wed</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>345</Id>
     <Day>Sat</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>346</Id>
     <Day>Sat</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>347</Id>
@@ -1978,25 +1978,25 @@
     <Id>349</Id>
     <Day>Sat</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>350</Id>
     <Day>Sat</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>351</Id>
     <Day>Sat</Day>
     <Hour>07:00 - 07:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>352</Id>
     <Day>Sat</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>353</Id>
@@ -2032,7 +2032,7 @@
     <Id>359</Id>
     <Day>Thu</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>360</Id>
@@ -2044,19 +2044,19 @@
     <Id>361</Id>
     <Day>Wed</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>362</Id>
     <Day>Tue</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>363</Id>
     <Day>Wed</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>364</Id>
@@ -2068,49 +2068,49 @@
     <Id>365</Id>
     <Day>Tue</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>366</Id>
     <Day>Mon</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>367</Id>
     <Day>Mon</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>368</Id>
     <Day>Fri</Day>
     <Hour>10:00 - 10:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>369</Id>
     <Day>Fri</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>370</Id>
     <Day>Fri</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>371</Id>
     <Day>Fri</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>372</Id>
     <Day>Fri</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>373</Id>
@@ -2146,13 +2146,13 @@
     <Id>378</Id>
     <Day>Tue</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>379</Id>
     <Day>Wed</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>380</Id>
@@ -2182,13 +2182,13 @@
     <Id>384</Id>
     <Day>Mon</Day>
     <Hour>18:30 - 19:00</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>385</Id>
     <Day>Thu</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>386</Id>
@@ -2200,7 +2200,7 @@
     <Id>387</Id>
     <Day>Tue</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>388</Id>
@@ -2218,19 +2218,19 @@
     <Id>390</Id>
     <Day>Thu</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>391</Id>
     <Day>Tue</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>392</Id>
     <Day>Thu</Day>
     <Hour>12:30 - 13:00</Hour>
-    <Room>TMA 302</Room>
+    <Room>TMA 104</Room>
   </Activity>
   <Activity>
     <Id>393</Id>
@@ -2260,7 +2260,7 @@
     <Id>397</Id>
     <Day>Fri</Day>
     <Hour>08:30 - 09:00</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>398</Id>
@@ -2302,7 +2302,7 @@
     <Id>404</Id>
     <Day>Mon</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 304</Room>
+    <Room>TMA 106</Room>
   </Activity>
   <Activity>
     <Id>405</Id>
@@ -2314,7 +2314,7 @@
     <Id>406</Id>
     <Day>Thu</Day>
     <Hour>15:30 - 16:00</Hour>
-    <Room>TMA 301</Room>
+    <Room>TMA 103</Room>
   </Activity>
   <Activity>
     <Id>407</Id>
@@ -2602,7 +2602,7 @@
     <Id>454</Id>
     <Day>Tue</Day>
     <Hour>14:00 - 14:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>455</Id>
@@ -2746,7 +2746,7 @@
     <Id>478</Id>
     <Day>Wed</Day>
     <Hour>07:00 - 07:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
   <Activity>
     <Id>482</Id>
@@ -3040,6 +3040,6 @@
     <Id>559</Id>
     <Day>Tue</Day>
     <Hour>17:00 - 17:30</Hour>
-    <Room>TMA 303</Room>
+    <Room>TMA 105</Room>
   </Activity>
 </Activities_Timetable>
