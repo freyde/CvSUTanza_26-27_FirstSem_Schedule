@@ -1,0 +1,2535 @@
+﻿@charset "UTF-8";
+
+/* CSS Style sheet of AY26-27_FirstSemester_data_and_timetable_data_and_timetable.fet
+   Style sheet generated with FET 7.9.2 on 8/2/26 1:10 PM */
+
+/* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
+/* Delete "page-break-before: always;" in "table.even_table" and in "table.odd_table" to skip page-breaks. */
+/* To hide an element just write the following phrase into the element: "display: none;" (without quotes). */
+
+p.back {
+  margin-top: 4ex;
+  margin-bottom: 5ex;
+}
+
+table {
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+table.odd_table {
+  page-break-before: always;
+}
+
+table.even_table {
+  page-break-before: always;
+}
+
+table.detailed {
+  margin-left: auto; margin-right: auto;
+  text-align: center;
+  border: 0px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+caption {
+
+}
+
+span.institution {
+  font-weight: bold;
+}
+
+span.name {
+
+}
+
+span.comment {
+  /*font-style: italic;*/
+}
+
+span.legend_title {
+  font-weight: bold;
+}
+
+thead {
+
+}
+
+/* Some programs import "tfoot" incorrectly. So we use "tr.foot" instead of "tfoot". */
+
+tr.foot {
+
+}
+
+tbody {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+td.detailed {
+  border: 1px dashed silver;
+  border-bottom: 0;
+  border-top: 0;
+}
+
+th.xAxis {
+/* width: 8em; */
+}
+
+th.yAxis {
+  height: 8ex;
+}
+
+span.s_1 { /* subject BADM 199 */
+
+}
+
+span.s_2 { /* subject BADM 200 */
+
+}
+
+span.s_3 { /* subject BADM 21 */
+
+}
+
+span.s_4 { /* subject BADM 22 */
+
+}
+
+span.s_5 { /* subject BADM 23 */
+
+}
+
+span.s_6 { /* subject BADM 24 */
+
+}
+
+span.s_7 { /* subject BADM 25 */
+
+}
+
+span.s_8 { /* subject BADM 26 */
+
+}
+
+span.s_9 { /* subject BADM 27 */
+
+}
+
+span.s_10 { /* subject BEEd 21 */
+
+}
+
+span.s_11 { /* subject BEEd 22 */
+
+}
+
+span.s_12 { /* subject BEEd 23 */
+
+}
+
+span.s_13 { /* subject BEEd 24 */
+
+}
+
+span.s_14 { /* subject BEEd 25 */
+
+}
+
+span.s_15 { /* subject BEEd 26 */
+
+}
+
+span.s_16 { /* subject BEEd 27 */
+
+}
+
+span.s_17 { /* subject BEEd 28 */
+
+}
+
+span.s_18 { /* subject BEEd 30 */
+
+}
+
+span.s_19 { /* subject BEEd 31 */
+
+}
+
+span.s_20 { /* subject BEEd 32 */
+
+}
+
+span.s_21 { /* subject BEEd 33 */
+
+}
+
+span.s_22 { /* subject BEEd 34 */
+
+}
+
+span.s_23 { /* subject BEEd 35 */
+
+}
+
+span.s_24 { /* subject BEEd 36 */
+
+}
+
+span.s_25 { /* subject BEEd 38 */
+
+}
+
+span.s_26 { /* subject BEEd 39 */
+
+}
+
+span.s_27 { /* subject BSEE 110 */
+
+}
+
+span.s_28 { /* subject BSEE 111 */
+
+}
+
+span.s_29 { /* subject BSEE 21 */
+
+}
+
+span.s_30 { /* subject BSEE 22 */
+
+}
+
+span.s_31 { /* subject BSEE 23 */
+
+}
+
+span.s_32 { /* subject BSEE 24 */
+
+}
+
+span.s_33 { /* subject BSEE 25 */
+
+}
+
+span.s_34 { /* subject BSEE 26 */
+
+}
+
+span.s_35 { /* subject BSEE 27 */
+
+}
+
+span.s_36 { /* subject BSEE 28 */
+
+}
+
+span.s_37 { /* subject BSEE 29 */
+
+}
+
+span.s_38 { /* subject BSEE 31 */
+
+}
+
+span.s_39 { /* subject BSEE 32 */
+
+}
+
+span.s_40 { /* subject BSEE 33 */
+
+}
+
+span.s_41 { /* subject BSEE 36 */
+
+}
+
+span.s_42 { /* subject BSEE 37 */
+
+}
+
+span.s_43 { /* subject BSEE 38 */
+
+}
+
+span.s_44 { /* subject BSEE 39 */
+
+}
+
+span.s_45 { /* subject BSEE 40 */
+
+}
+
+span.s_46 { /* subject BSEE 41 */
+
+}
+
+span.s_47 { /* subject BSEM 23 */
+
+}
+
+span.s_48 { /* subject BSEM 24 */
+
+}
+
+span.s_49 { /* subject BSEM 25 */
+
+}
+
+span.s_50 { /* subject BSEM 26 */
+
+}
+
+span.s_51 { /* subject BSEM 27 */
+
+}
+
+span.s_52 { /* subject BSEM 28 */
+
+}
+
+span.s_53 { /* subject BSEM 30 */
+
+}
+
+span.s_54 { /* subject BSEM 31 */
+
+}
+
+span.s_55 { /* subject BSEM 32 */
+
+}
+
+span.s_56 { /* subject BSEM 33 */
+
+}
+
+span.s_57 { /* subject BSEM 34 */
+
+}
+
+span.s_58 { /* subject BSEM 35 */
+
+}
+
+span.s_59 { /* subject BSEM 36 */
+
+}
+
+span.s_60 { /* subject BSEM 37 */
+
+}
+
+span.s_61 { /* subject BSEM 38 */
+
+}
+
+span.s_62 { /* subject BSEM 39 */
+
+}
+
+span.s_63 { /* subject BSEM 40 */
+
+}
+
+span.s_64 { /* subject COSC 50 */
+
+}
+
+span.s_65 { /* subject CvSU 101 */
+
+}
+
+span.s_66 { /* subject DCIT 21 */
+
+}
+
+span.s_67 { /* subject DCIT 22 */
+
+}
+
+span.s_68 { /* subject DCIT 23 */
+
+}
+
+span.s_69 { /* subject DCIT 24 */
+
+}
+
+span.s_70 { /* subject DCIT 25 */
+
+}
+
+span.s_71 { /* subject DCIT 26 */
+
+}
+
+span.s_72 { /* subject DCIT 50 */
+
+}
+
+span.s_73 { /* subject DCIT 55 */
+
+}
+
+span.s_74 { /* subject DCIT 60 */
+
+}
+
+span.s_75 { /* subject DCT 65 */
+
+}
+
+span.s_76 { /* subject ECON 23 */
+
+}
+
+span.s_77 { /* subject ECON 24 */
+
+}
+
+span.s_78 { /* subject EDFS 21 */
+
+}
+
+span.s_79 { /* subject EDFS 23 */
+
+}
+
+span.s_80 { /* subject EDUC 197 */
+
+}
+
+span.s_81 { /* subject EDUC 198 */
+
+}
+
+span.s_82 { /* subject EDUC 50 */
+
+}
+
+span.s_83 { /* subject EDUC 55 */
+
+}
+
+span.s_84 { /* subject EDUC 60 */
+
+}
+
+span.s_85 { /* subject EDUC 65 */
+
+}
+
+span.s_86 { /* subject EDUC 70 */
+
+}
+
+span.s_87 { /* subject EDUC 75 */
+
+}
+
+span.s_88 { /* subject EDUC 80 */
+
+}
+
+span.s_89 { /* subject EDUC 85 */
+
+}
+
+span.s_90 { /* subject EDUC 90 */
+
+}
+
+span.s_91 { /* subject EDUC 95 */
+
+}
+
+span.s_92 { /* subject ELEC */
+
+}
+
+span.s_93 { /* subject FITT 1 */
+
+}
+
+span.s_94 { /* subject FITT 2 */
+
+}
+
+span.s_95 { /* subject FITT 3 */
+
+}
+
+span.s_96 { /* subject FITT 4 */
+
+}
+
+span.s_97 { /* subject GNED 01 */
+
+}
+
+span.s_98 { /* subject GNED 02 */
+
+}
+
+span.s_99 { /* subject GNED 03 */
+
+}
+
+span.s_100 { /* subject GNED 04 */
+
+}
+
+span.s_101 { /* subject GNED 05 */
+
+}
+
+span.s_102 { /* subject GNED 06 */
+
+}
+
+span.s_103 { /* subject GNED 07 */
+
+}
+
+span.s_104 { /* subject GNED 08 */
+
+}
+
+span.s_105 { /* subject GNED 09 */
+
+}
+
+span.s_106 { /* subject GNED 10 */
+
+}
+
+span.s_107 { /* subject GNED 11 */
+
+}
+
+span.s_108 { /* subject GNED 12 */
+
+}
+
+span.s_109 { /* subject GNED 13 */
+
+}
+
+span.s_110 { /* subject GNED 14 */
+
+}
+
+span.s_111 { /* subject GNED 15 */
+
+}
+
+span.s_112 { /* subject INSY 55 */
+
+}
+
+span.s_113 { /* subject ITEC 100 */
+
+}
+
+span.s_114 { /* subject ITEC 101 */
+
+}
+
+span.s_115 { /* subject ITEC 105 */
+
+}
+
+span.s_116 { /* subject ITEC 106 */
+
+}
+
+span.s_117 { /* subject ITEC 110 */
+
+}
+
+span.s_118 { /* subject ITEC 111 */
+
+}
+
+span.s_119 { /* subject ITEC 116 */
+
+}
+
+span.s_120 { /* subject ITEC 199 */
+
+}
+
+span.s_121 { /* subject ITEC 200A */
+
+}
+
+span.s_122 { /* subject ITEC 200B */
+
+}
+
+span.s_123 { /* subject ITEC 50 */
+
+}
+
+span.s_124 { /* subject ITEC 55 */
+
+}
+
+span.s_125 { /* subject ITEC 60 */
+
+}
+
+span.s_126 { /* subject ITEC 65 */
+
+}
+
+span.s_127 { /* subject ITEC 70 */
+
+}
+
+span.s_128 { /* subject ITEC 80 */
+
+}
+
+span.s_129 { /* subject ITEC 85 */
+
+}
+
+span.s_130 { /* subject ITEC 90 */
+
+}
+
+span.s_131 { /* subject MKTG 101 */
+
+}
+
+span.s_132 { /* subject MKTG 106 */
+
+}
+
+span.s_133 { /* subject MKTG 111 */
+
+}
+
+span.s_134 { /* subject MKTG 116 */
+
+}
+
+span.s_135 { /* subject MKTG 50 */
+
+}
+
+span.s_136 { /* subject MKTG 55 */
+
+}
+
+span.s_137 { /* subject MKTG 60 */
+
+}
+
+span.s_138 { /* subject MKTG 65 */
+
+}
+
+span.s_139 { /* subject MKTG 70 */
+
+}
+
+span.s_140 { /* subject MKTG 75 */
+
+}
+
+span.s_141 { /* subject MKTG 80 */
+
+}
+
+span.s_142 { /* subject MKTG 85 */
+
+}
+
+span.s_143 { /* subject NSTP 1 */
+
+}
+
+span.s_144 { /* subject TAXN 21 */
+
+}
+
+span.at_1 { /* activity tag Lecture */
+
+}
+
+span.at_2 { /* activity tag Laboratory */
+
+}
+
+span.at_3 { /* activity tag IT Lecture */
+
+}
+
+span.at_4 { /* activity tag Asynchronous */
+
+}
+
+span.at_5 { /* activity tag PE */
+
+}
+
+span.ss_3 { /* students set BEE1-1 */
+
+}
+
+span.ss_4 { /* students set BEE1-2 */
+
+}
+
+span.ss_5 { /* students set BEE1-3 */
+
+}
+
+span.ss_6 { /* students set BEE1-4 */
+
+}
+
+span.ss_7 { /* students set BEE1-5 */
+
+}
+
+span.ss_8 { /* students set BEE1-6 */
+
+}
+
+span.ss_10 { /* students set BSBA1-1 */
+
+}
+
+span.ss_11 { /* students set BSBA1-2 */
+
+}
+
+span.ss_12 { /* students set BSBA1-3 */
+
+}
+
+span.ss_13 { /* students set BSBA1-4 */
+
+}
+
+span.ss_14 { /* students set BSBA1-5 */
+
+}
+
+span.ss_15 { /* students set BSBA1-6 */
+
+}
+
+span.ss_16 { /* students set BSBA1-7 */
+
+}
+
+span.ss_17 { /* students set BSBA1-8 */
+
+}
+
+span.ss_19 { /* students set BSE-E1-1 */
+
+}
+
+span.ss_20 { /* students set BSE-E1-2 */
+
+}
+
+span.ss_21 { /* students set BSE-E1-3 */
+
+}
+
+span.ss_22 { /* students set BSE-E1-4 */
+
+}
+
+span.ss_23 { /* students set BSE-E1-5 */
+
+}
+
+span.ss_24 { /* students set BSE-E1-6 */
+
+}
+
+span.ss_26 { /* students set BSE-M1-1 */
+
+}
+
+span.ss_27 { /* students set BSE-M1-2 */
+
+}
+
+span.ss_29 { /* students set BSIT1-1 */
+
+}
+
+span.ss_30 { /* students set BSIT1-2 */
+
+}
+
+span.ss_31 { /* students set BSIT1-3 */
+
+}
+
+span.ss_32 { /* students set BSIT1-4 */
+
+}
+
+span.ss_33 { /* students set BSIT1-5 */
+
+}
+
+span.ss_34 { /* students set BSIT1-6 */
+
+}
+
+span.ss_35 { /* students set BSIT1-7 */
+
+}
+
+span.ss_36 { /* students set BSIT1-8 */
+
+}
+
+span.ss_39 { /* students set BEE2-1 */
+
+}
+
+span.ss_40 { /* students set BEE2-2 */
+
+}
+
+span.ss_41 { /* students set BEE2-3 */
+
+}
+
+span.ss_43 { /* students set BSBA2-1 */
+
+}
+
+span.ss_44 { /* students set BSBA2-2 */
+
+}
+
+span.ss_45 { /* students set BSBA2-3 */
+
+}
+
+span.ss_46 { /* students set BSBA2-4 */
+
+}
+
+span.ss_47 { /* students set BSBA2-5 */
+
+}
+
+span.ss_48 { /* students set BSBA2-Irreg1 */
+
+}
+
+span.ss_49 { /* students set BSBA2-Irreg2 */
+
+}
+
+span.ss_51 { /* students set BSE-E2-1 */
+
+}
+
+span.ss_52 { /* students set BSE-E2-2 */
+
+}
+
+span.ss_53 { /* students set BSE-E2-3 */
+
+}
+
+span.ss_54 { /* students set BSE-E2-4 */
+
+}
+
+span.ss_56 { /* students set BSE-M2-1 */
+
+}
+
+span.ss_58 { /* students set BSIT2-1 */
+
+}
+
+span.ss_59 { /* students set BSIT2-2 */
+
+}
+
+span.ss_60 { /* students set BSIT2-3 */
+
+}
+
+span.ss_61 { /* students set BSIT2-4 */
+
+}
+
+span.ss_62 { /* students set BSIT2-5 */
+
+}
+
+span.ss_63 { /* students set BSIT2-6 */
+
+}
+
+span.ss_66 { /* students set BEE3-1 */
+
+}
+
+span.ss_67 { /* students set BEE3-2 */
+
+}
+
+span.ss_69 { /* students set BSBA3-1 */
+
+}
+
+span.ss_70 { /* students set BSBA3-2 */
+
+}
+
+span.ss_71 { /* students set BSBA3-3 */
+
+}
+
+span.ss_73 { /* students set BSE-E3-1 */
+
+}
+
+span.ss_74 { /* students set BSE-E3-2 */
+
+}
+
+span.ss_76 { /* students set BSE-M3-1 */
+
+}
+
+span.ss_78 { /* students set BSIT3-1 */
+
+}
+
+span.ss_79 { /* students set BSIT3-2 */
+
+}
+
+span.ss_80 { /* students set BSIT3-3 */
+
+}
+
+span.ss_81 { /* students set BSIT3-4 */
+
+}
+
+span.ss_84 { /* students set BSIT4-1 */
+
+}
+
+span.ss_85 { /* students set BSIT4-2 */
+
+}
+
+span.t_1 { /* teacher Anacleto Q. Marcelino */
+
+}
+
+span.t_2 { /* teacher Angel A. Duales */
+
+}
+
+span.t_3 { /* teacher Angelo Castro */
+
+}
+
+span.t_4 { /* teacher Angelo T. Omiping */
+
+}
+
+span.t_5 { /* teacher Arbieson F. Braza */
+
+}
+
+span.t_6 { /* teacher Audrey Gerard D. Advincula */
+
+}
+
+span.t_7 { /* teacher Audreyson H. Borilla */
+
+}
+
+span.t_8 { /* teacher Castillo Jr. */
+
+}
+
+span.t_9 { /* teacher Charmaine A. Gabelo */
+
+}
+
+span.t_10 { /* teacher Chris John F. Judin */
+
+}
+
+span.t_11 { /* teacher Christian Joy G. Sebastian */
+
+}
+
+span.t_12 { /* teacher Crisostomo Sibulo */
+
+}
+
+span.t_13 { /* teacher David Sherom G. Granada */
+
+}
+
+span.t_14 { /* teacher Debbie Rose B. Fabian */
+
+}
+
+span.t_15 { /* teacher Edison Feranil */
+
+}
+
+span.t_16 { /* teacher Efren G. Peñaflorida Jr. */
+
+}
+
+span.t_17 { /* teacher Estelita A. Villa */
+
+}
+
+span.t_18 { /* teacher Faculty 13 - DIT */
+
+}
+
+span.t_19 { /* teacher Fatima Diaz */
+
+}
+
+span.t_20 { /* teacher France Andrie Anasco */
+
+}
+
+span.t_21 { /* teacher Gecille Marie Reyes */
+
+}
+
+span.t_22 { /* teacher Hyram Adrienne M. Salinas */
+
+}
+
+span.t_23 { /* teacher Ivern S. Bautista */
+
+}
+
+span.t_24 { /* teacher Jan Edizon De Silva */
+
+}
+
+span.t_25 { /* teacher Janos Rapanut */
+
+}
+
+span.t_26 { /* teacher Jeffrey Delgado */
+
+}
+
+span.t_27 { /* teacher Jenice Orpeza */
+
+}
+
+span.t_28 { /* teacher Jenilyn D. Tangalin */
+
+}
+
+span.t_29 { /* teacher Jennifer S. Nervar */
+
+}
+
+span.t_30 { /* teacher Jepre Dinglasan */
+
+}
+
+span.t_31 { /* teacher Jessica Avon C. Quezada */
+
+}
+
+span.t_32 { /* teacher Jethro S. Delos Angeles */
+
+}
+
+span.t_33 { /* teacher Jhollie Anne D. Lopez */
+
+}
+
+span.t_34 { /* teacher Johanna Faye T. Lopez */
+
+}
+
+span.t_35 { /* teacher John Melbert Buen */
+
+}
+
+span.t_36 { /* teacher John Mhike S. Josol */
+
+}
+
+span.t_37 { /* teacher John Paul De Torres */
+
+}
+
+span.t_38 { /* teacher Jonvic L. Singcay */
+
+}
+
+span.t_39 { /* teacher Joseph O. Sabaybay */
+
+}
+
+span.t_40 { /* teacher Joyce Erika S. Senaris */
+
+}
+
+span.t_41 { /* teacher Julius Angelo B. Sarreal */
+
+}
+
+span.t_42 { /* teacher Kevin C. Lucilo */
+
+}
+
+span.t_43 { /* teacher Laarni Mhae B. Bucor */
+
+}
+
+span.t_44 { /* teacher Ma. Woodelyn R. Macaraig */
+
+}
+
+span.t_45 { /* teacher Magelyn M. Rivera */
+
+}
+
+span.t_46 { /* teacher Mariechelle Correo */
+
+}
+
+span.t_47 { /* teacher Marion Adam S. Purugganan */
+
+}
+
+span.t_48 { /* teacher Marlou M. Tangalin */
+
+}
+
+span.t_49 { /* teacher Mary Ann L. Anonas */
+
+}
+
+span.t_50 { /* teacher Mary Joy Angelique R. Mojica */
+
+}
+
+span.t_51 { /* teacher Mary Rose E. Elamparo */
+
+}
+
+span.t_52 { /* teacher Melona I. Saquin */
+
+}
+
+span.t_53 { /* teacher Micah M. Sanchez */
+
+}
+
+span.t_54 { /* teacher Mildred A. Sebastian */
+
+}
+
+span.t_55 { /* teacher Muhaimin P. Macapundag */
+
+}
+
+span.t_56 { /* teacher Myla Jane Henegabuas */
+
+}
+
+span.t_57 { /* teacher Noemi A. Perida */
+
+}
+
+span.t_58 { /* teacher Quincy Mae M. Tamio */
+
+}
+
+span.t_59 { /* teacher Renz Joseph B. Quia */
+
+}
+
+span.t_60 { /* teacher Richard Adrian Kenn T. Pargan */
+
+}
+
+span.t_61 { /* teacher Richelle F. Rozol */
+
+}
+
+span.t_62 { /* teacher Ritch M. Banate */
+
+}
+
+span.t_63 { /* teacher Roderick O. Villacampa */
+
+}
+
+span.t_64 { /* teacher Rojelyn T. Pedida */
+
+}
+
+span.t_65 { /* teacher Ronnel Jul M. Sebastian */
+
+}
+
+span.t_66 { /* teacher Sheerie Mhel Colina */
+
+}
+
+span.t_67 { /* teacher Vidal */
+
+}
+
+span.t_68 { /* teacher Yohanah D. Guillermo */
+
+}
+
+span.r_1 { /* room ABC1 */
+
+}
+
+span.r_2 { /* room ABC2 */
+
+}
+
+span.r_3 { /* room ABC3 */
+
+}
+
+span.r_4 { /* room Comlab 1 */
+
+}
+
+span.r_5 { /* room Comlab 2 */
+
+}
+
+span.r_6 { /* room Comlab 3 */
+
+}
+
+span.r_7 { /* room Comlec */
+
+}
+
+span.r_8 { /* room TMA 101 */
+
+}
+
+span.r_9 { /* room TMA 103 */
+
+}
+
+span.r_10 { /* room TMA 104 */
+
+}
+
+span.r_11 { /* room TMA 105 */
+
+}
+
+span.r_12 { /* room TMA 106 */
+
+}
+
+span.r_13 { /* room TMA 201 */
+
+}
+
+span.r_14 { /* room TMA 202 */
+
+}
+
+span.r_15 { /* room TMA 203 */
+
+}
+
+span.r_16 { /* room TMA 204 */
+
+}
+
+span.subject {
+
+}
+
+span.activitytag {
+
+}
+
+span.empty {
+  color: gray;
+}
+
+td.empty {
+  border-color: silver;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: dotted;
+  border-top-style: dotted;
+}
+
+span.notAvailable {
+  color: gray;
+}
+
+td.notAvailable {
+  border-color: silver;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: dotted;
+  border-top-style: dotted;
+}
+
+span.break {
+  color: gray;
+}
+
+td.break {
+  border-color: silver;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: dotted;
+  border-top-style: dotted;
+}
+
+tr.studentsset, div.studentsset {
+
+}
+
+tr.teacher, div.teacher {
+
+}
+
+tr.room, div.room {
+
+}
+
+tr.line0, div.line0 {
+  font-size: smaller;
+}
+
+tr.line1, div.line1 {
+
+}
+
+tr.line2, div.line2 {
+  font-size: smaller;
+  color: gray;
+}
+
+tr.line3, div.line3 {
+  font-size: smaller;
+  color: silver;
+}
+
+/* Be careful. You might get mutual and ambiguous styles. CSS means that the last definition will be used. */
+
+td.s_1 { /* subject BADM 199 */
+
+}
+
+td.s_2 { /* subject BADM 200 */
+
+}
+
+td.s_3 { /* subject BADM 21 */
+
+}
+
+td.s_4 { /* subject BADM 22 */
+
+}
+
+td.s_5 { /* subject BADM 23 */
+
+}
+
+td.s_6 { /* subject BADM 24 */
+
+}
+
+td.s_7 { /* subject BADM 25 */
+
+}
+
+td.s_8 { /* subject BADM 26 */
+
+}
+
+td.s_9 { /* subject BADM 27 */
+
+}
+
+td.s_10 { /* subject BEEd 21 */
+
+}
+
+td.s_11 { /* subject BEEd 22 */
+
+}
+
+td.s_12 { /* subject BEEd 23 */
+
+}
+
+td.s_13 { /* subject BEEd 24 */
+
+}
+
+td.s_14 { /* subject BEEd 25 */
+
+}
+
+td.s_15 { /* subject BEEd 26 */
+
+}
+
+td.s_16 { /* subject BEEd 27 */
+
+}
+
+td.s_17 { /* subject BEEd 28 */
+
+}
+
+td.s_18 { /* subject BEEd 30 */
+
+}
+
+td.s_19 { /* subject BEEd 31 */
+
+}
+
+td.s_20 { /* subject BEEd 32 */
+
+}
+
+td.s_21 { /* subject BEEd 33 */
+
+}
+
+td.s_22 { /* subject BEEd 34 */
+
+}
+
+td.s_23 { /* subject BEEd 35 */
+
+}
+
+td.s_24 { /* subject BEEd 36 */
+
+}
+
+td.s_25 { /* subject BEEd 38 */
+
+}
+
+td.s_26 { /* subject BEEd 39 */
+
+}
+
+td.s_27 { /* subject BSEE 110 */
+
+}
+
+td.s_28 { /* subject BSEE 111 */
+
+}
+
+td.s_29 { /* subject BSEE 21 */
+
+}
+
+td.s_30 { /* subject BSEE 22 */
+
+}
+
+td.s_31 { /* subject BSEE 23 */
+
+}
+
+td.s_32 { /* subject BSEE 24 */
+
+}
+
+td.s_33 { /* subject BSEE 25 */
+
+}
+
+td.s_34 { /* subject BSEE 26 */
+
+}
+
+td.s_35 { /* subject BSEE 27 */
+
+}
+
+td.s_36 { /* subject BSEE 28 */
+
+}
+
+td.s_37 { /* subject BSEE 29 */
+
+}
+
+td.s_38 { /* subject BSEE 31 */
+
+}
+
+td.s_39 { /* subject BSEE 32 */
+
+}
+
+td.s_40 { /* subject BSEE 33 */
+
+}
+
+td.s_41 { /* subject BSEE 36 */
+
+}
+
+td.s_42 { /* subject BSEE 37 */
+
+}
+
+td.s_43 { /* subject BSEE 38 */
+
+}
+
+td.s_44 { /* subject BSEE 39 */
+
+}
+
+td.s_45 { /* subject BSEE 40 */
+
+}
+
+td.s_46 { /* subject BSEE 41 */
+
+}
+
+td.s_47 { /* subject BSEM 23 */
+
+}
+
+td.s_48 { /* subject BSEM 24 */
+
+}
+
+td.s_49 { /* subject BSEM 25 */
+
+}
+
+td.s_50 { /* subject BSEM 26 */
+
+}
+
+td.s_51 { /* subject BSEM 27 */
+
+}
+
+td.s_52 { /* subject BSEM 28 */
+
+}
+
+td.s_53 { /* subject BSEM 30 */
+
+}
+
+td.s_54 { /* subject BSEM 31 */
+
+}
+
+td.s_55 { /* subject BSEM 32 */
+
+}
+
+td.s_56 { /* subject BSEM 33 */
+
+}
+
+td.s_57 { /* subject BSEM 34 */
+
+}
+
+td.s_58 { /* subject BSEM 35 */
+
+}
+
+td.s_59 { /* subject BSEM 36 */
+
+}
+
+td.s_60 { /* subject BSEM 37 */
+
+}
+
+td.s_61 { /* subject BSEM 38 */
+
+}
+
+td.s_62 { /* subject BSEM 39 */
+
+}
+
+td.s_63 { /* subject BSEM 40 */
+
+}
+
+td.s_64 { /* subject COSC 50 */
+
+}
+
+td.s_65 { /* subject CvSU 101 */
+
+}
+
+td.s_66 { /* subject DCIT 21 */
+
+}
+
+td.s_67 { /* subject DCIT 22 */
+
+}
+
+td.s_68 { /* subject DCIT 23 */
+
+}
+
+td.s_69 { /* subject DCIT 24 */
+
+}
+
+td.s_70 { /* subject DCIT 25 */
+
+}
+
+td.s_71 { /* subject DCIT 26 */
+
+}
+
+td.s_72 { /* subject DCIT 50 */
+
+}
+
+td.s_73 { /* subject DCIT 55 */
+
+}
+
+td.s_74 { /* subject DCIT 60 */
+
+}
+
+td.s_75 { /* subject DCT 65 */
+
+}
+
+td.s_76 { /* subject ECON 23 */
+
+}
+
+td.s_77 { /* subject ECON 24 */
+
+}
+
+td.s_78 { /* subject EDFS 21 */
+
+}
+
+td.s_79 { /* subject EDFS 23 */
+
+}
+
+td.s_80 { /* subject EDUC 197 */
+
+}
+
+td.s_81 { /* subject EDUC 198 */
+
+}
+
+td.s_82 { /* subject EDUC 50 */
+
+}
+
+td.s_83 { /* subject EDUC 55 */
+
+}
+
+td.s_84 { /* subject EDUC 60 */
+
+}
+
+td.s_85 { /* subject EDUC 65 */
+
+}
+
+td.s_86 { /* subject EDUC 70 */
+
+}
+
+td.s_87 { /* subject EDUC 75 */
+
+}
+
+td.s_88 { /* subject EDUC 80 */
+
+}
+
+td.s_89 { /* subject EDUC 85 */
+
+}
+
+td.s_90 { /* subject EDUC 90 */
+
+}
+
+td.s_91 { /* subject EDUC 95 */
+
+}
+
+td.s_92 { /* subject ELEC */
+
+}
+
+td.s_93 { /* subject FITT 1 */
+
+}
+
+td.s_94 { /* subject FITT 2 */
+
+}
+
+td.s_95 { /* subject FITT 3 */
+
+}
+
+td.s_96 { /* subject FITT 4 */
+
+}
+
+td.s_97 { /* subject GNED 01 */
+
+}
+
+td.s_98 { /* subject GNED 02 */
+
+}
+
+td.s_99 { /* subject GNED 03 */
+
+}
+
+td.s_100 { /* subject GNED 04 */
+
+}
+
+td.s_101 { /* subject GNED 05 */
+
+}
+
+td.s_102 { /* subject GNED 06 */
+
+}
+
+td.s_103 { /* subject GNED 07 */
+
+}
+
+td.s_104 { /* subject GNED 08 */
+
+}
+
+td.s_105 { /* subject GNED 09 */
+
+}
+
+td.s_106 { /* subject GNED 10 */
+
+}
+
+td.s_107 { /* subject GNED 11 */
+
+}
+
+td.s_108 { /* subject GNED 12 */
+
+}
+
+td.s_109 { /* subject GNED 13 */
+
+}
+
+td.s_110 { /* subject GNED 14 */
+
+}
+
+td.s_111 { /* subject GNED 15 */
+
+}
+
+td.s_112 { /* subject INSY 55 */
+
+}
+
+td.s_113 { /* subject ITEC 100 */
+
+}
+
+td.s_114 { /* subject ITEC 101 */
+
+}
+
+td.s_115 { /* subject ITEC 105 */
+
+}
+
+td.s_116 { /* subject ITEC 106 */
+
+}
+
+td.s_117 { /* subject ITEC 110 */
+
+}
+
+td.s_118 { /* subject ITEC 111 */
+
+}
+
+td.s_119 { /* subject ITEC 116 */
+
+}
+
+td.s_120 { /* subject ITEC 199 */
+
+}
+
+td.s_121 { /* subject ITEC 200A */
+
+}
+
+td.s_122 { /* subject ITEC 200B */
+
+}
+
+td.s_123 { /* subject ITEC 50 */
+
+}
+
+td.s_124 { /* subject ITEC 55 */
+
+}
+
+td.s_125 { /* subject ITEC 60 */
+
+}
+
+td.s_126 { /* subject ITEC 65 */
+
+}
+
+td.s_127 { /* subject ITEC 70 */
+
+}
+
+td.s_128 { /* subject ITEC 80 */
+
+}
+
+td.s_129 { /* subject ITEC 85 */
+
+}
+
+td.s_130 { /* subject ITEC 90 */
+
+}
+
+td.s_131 { /* subject MKTG 101 */
+
+}
+
+td.s_132 { /* subject MKTG 106 */
+
+}
+
+td.s_133 { /* subject MKTG 111 */
+
+}
+
+td.s_134 { /* subject MKTG 116 */
+
+}
+
+td.s_135 { /* subject MKTG 50 */
+
+}
+
+td.s_136 { /* subject MKTG 55 */
+
+}
+
+td.s_137 { /* subject MKTG 60 */
+
+}
+
+td.s_138 { /* subject MKTG 65 */
+
+}
+
+td.s_139 { /* subject MKTG 70 */
+
+}
+
+td.s_140 { /* subject MKTG 75 */
+
+}
+
+td.s_141 { /* subject MKTG 80 */
+
+}
+
+td.s_142 { /* subject MKTG 85 */
+
+}
+
+td.s_143 { /* subject NSTP 1 */
+
+}
+
+td.s_144 { /* subject TAXN 21 */
+
+}
+
+td.at_1 { /* activity tag Lecture */
+
+}
+
+td.at_2 { /* activity tag Laboratory */
+
+}
+
+td.at_3 { /* activity tag IT Lecture */
+
+}
+
+td.at_4 { /* activity tag Asynchronous */
+
+}
+
+td.at_5 { /* activity tag PE */
+
+}
+
+td.ss_3 { /* students set BEE1-1 */
+
+}
+
+td.ss_4 { /* students set BEE1-2 */
+
+}
+
+td.ss_5 { /* students set BEE1-3 */
+
+}
+
+td.ss_6 { /* students set BEE1-4 */
+
+}
+
+td.ss_7 { /* students set BEE1-5 */
+
+}
+
+td.ss_8 { /* students set BEE1-6 */
+
+}
+
+td.ss_10 { /* students set BSBA1-1 */
+
+}
+
+td.ss_11 { /* students set BSBA1-2 */
+
+}
+
+td.ss_12 { /* students set BSBA1-3 */
+
+}
+
+td.ss_13 { /* students set BSBA1-4 */
+
+}
+
+td.ss_14 { /* students set BSBA1-5 */
+
+}
+
+td.ss_15 { /* students set BSBA1-6 */
+
+}
+
+td.ss_16 { /* students set BSBA1-7 */
+
+}
+
+td.ss_17 { /* students set BSBA1-8 */
+
+}
+
+td.ss_19 { /* students set BSE-E1-1 */
+
+}
+
+td.ss_20 { /* students set BSE-E1-2 */
+
+}
+
+td.ss_21 { /* students set BSE-E1-3 */
+
+}
+
+td.ss_22 { /* students set BSE-E1-4 */
+
+}
+
+td.ss_23 { /* students set BSE-E1-5 */
+
+}
+
+td.ss_24 { /* students set BSE-E1-6 */
+
+}
+
+td.ss_26 { /* students set BSE-M1-1 */
+
+}
+
+td.ss_27 { /* students set BSE-M1-2 */
+
+}
+
+td.ss_29 { /* students set BSIT1-1 */
+
+}
+
+td.ss_30 { /* students set BSIT1-2 */
+
+}
+
+td.ss_31 { /* students set BSIT1-3 */
+
+}
+
+td.ss_32 { /* students set BSIT1-4 */
+
+}
+
+td.ss_33 { /* students set BSIT1-5 */
+
+}
+
+td.ss_34 { /* students set BSIT1-6 */
+
+}
+
+td.ss_35 { /* students set BSIT1-7 */
+
+}
+
+td.ss_36 { /* students set BSIT1-8 */
+
+}
+
+td.ss_39 { /* students set BEE2-1 */
+
+}
+
+td.ss_40 { /* students set BEE2-2 */
+
+}
+
+td.ss_41 { /* students set BEE2-3 */
+
+}
+
+td.ss_43 { /* students set BSBA2-1 */
+
+}
+
+td.ss_44 { /* students set BSBA2-2 */
+
+}
+
+td.ss_45 { /* students set BSBA2-3 */
+
+}
+
+td.ss_46 { /* students set BSBA2-4 */
+
+}
+
+td.ss_47 { /* students set BSBA2-5 */
+
+}
+
+td.ss_48 { /* students set BSBA2-Irreg1 */
+
+}
+
+td.ss_49 { /* students set BSBA2-Irreg2 */
+
+}
+
+td.ss_51 { /* students set BSE-E2-1 */
+
+}
+
+td.ss_52 { /* students set BSE-E2-2 */
+
+}
+
+td.ss_53 { /* students set BSE-E2-3 */
+
+}
+
+td.ss_54 { /* students set BSE-E2-4 */
+
+}
+
+td.ss_56 { /* students set BSE-M2-1 */
+
+}
+
+td.ss_58 { /* students set BSIT2-1 */
+
+}
+
+td.ss_59 { /* students set BSIT2-2 */
+
+}
+
+td.ss_60 { /* students set BSIT2-3 */
+
+}
+
+td.ss_61 { /* students set BSIT2-4 */
+
+}
+
+td.ss_62 { /* students set BSIT2-5 */
+
+}
+
+td.ss_63 { /* students set BSIT2-6 */
+
+}
+
+td.ss_66 { /* students set BEE3-1 */
+
+}
+
+td.ss_67 { /* students set BEE3-2 */
+
+}
+
+td.ss_69 { /* students set BSBA3-1 */
+
+}
+
+td.ss_70 { /* students set BSBA3-2 */
+
+}
+
+td.ss_71 { /* students set BSBA3-3 */
+
+}
+
+td.ss_73 { /* students set BSE-E3-1 */
+
+}
+
+td.ss_74 { /* students set BSE-E3-2 */
+
+}
+
+td.ss_76 { /* students set BSE-M3-1 */
+
+}
+
+td.ss_78 { /* students set BSIT3-1 */
+
+}
+
+td.ss_79 { /* students set BSIT3-2 */
+
+}
+
+td.ss_80 { /* students set BSIT3-3 */
+
+}
+
+td.ss_81 { /* students set BSIT3-4 */
+
+}
+
+td.ss_84 { /* students set BSIT4-1 */
+
+}
+
+td.ss_85 { /* students set BSIT4-2 */
+
+}
+
+td.t_1 { /* teacher Anacleto Q. Marcelino */
+
+}
+
+td.t_2 { /* teacher Angel A. Duales */
+
+}
+
+td.t_3 { /* teacher Angelo Castro */
+
+}
+
+td.t_4 { /* teacher Angelo T. Omiping */
+
+}
+
+td.t_5 { /* teacher Arbieson F. Braza */
+
+}
+
+td.t_6 { /* teacher Audrey Gerard D. Advincula */
+
+}
+
+td.t_7 { /* teacher Audreyson H. Borilla */
+
+}
+
+td.t_8 { /* teacher Castillo Jr. */
+
+}
+
+td.t_9 { /* teacher Charmaine A. Gabelo */
+
+}
+
+td.t_10 { /* teacher Chris John F. Judin */
+
+}
+
+td.t_11 { /* teacher Christian Joy G. Sebastian */
+
+}
+
+td.t_12 { /* teacher Crisostomo Sibulo */
+
+}
+
+td.t_13 { /* teacher David Sherom G. Granada */
+
+}
+
+td.t_14 { /* teacher Debbie Rose B. Fabian */
+
+}
+
+td.t_15 { /* teacher Edison Feranil */
+
+}
+
+td.t_16 { /* teacher Efren G. Peñaflorida Jr. */
+
+}
+
+td.t_17 { /* teacher Estelita A. Villa */
+
+}
+
+td.t_18 { /* teacher Faculty 13 - DIT */
+
+}
+
+td.t_19 { /* teacher Fatima Diaz */
+
+}
+
+td.t_20 { /* teacher France Andrie Anasco */
+
+}
+
+td.t_21 { /* teacher Gecille Marie Reyes */
+
+}
+
+td.t_22 { /* teacher Hyram Adrienne M. Salinas */
+
+}
+
+td.t_23 { /* teacher Ivern S. Bautista */
+
+}
+
+td.t_24 { /* teacher Jan Edizon De Silva */
+
+}
+
+td.t_25 { /* teacher Janos Rapanut */
+
+}
+
+td.t_26 { /* teacher Jeffrey Delgado */
+
+}
+
+td.t_27 { /* teacher Jenice Orpeza */
+
+}
+
+td.t_28 { /* teacher Jenilyn D. Tangalin */
+
+}
+
+td.t_29 { /* teacher Jennifer S. Nervar */
+
+}
+
+td.t_30 { /* teacher Jepre Dinglasan */
+
+}
+
+td.t_31 { /* teacher Jessica Avon C. Quezada */
+
+}
+
+td.t_32 { /* teacher Jethro S. Delos Angeles */
+
+}
+
+td.t_33 { /* teacher Jhollie Anne D. Lopez */
+
+}
+
+td.t_34 { /* teacher Johanna Faye T. Lopez */
+
+}
+
+td.t_35 { /* teacher John Melbert Buen */
+
+}
+
+td.t_36 { /* teacher John Mhike S. Josol */
+
+}
+
+td.t_37 { /* teacher John Paul De Torres */
+
+}
+
+td.t_38 { /* teacher Jonvic L. Singcay */
+
+}
+
+td.t_39 { /* teacher Joseph O. Sabaybay */
+
+}
+
+td.t_40 { /* teacher Joyce Erika S. Senaris */
+
+}
+
+td.t_41 { /* teacher Julius Angelo B. Sarreal */
+
+}
+
+td.t_42 { /* teacher Kevin C. Lucilo */
+
+}
+
+td.t_43 { /* teacher Laarni Mhae B. Bucor */
+
+}
+
+td.t_44 { /* teacher Ma. Woodelyn R. Macaraig */
+
+}
+
+td.t_45 { /* teacher Magelyn M. Rivera */
+
+}
+
+td.t_46 { /* teacher Mariechelle Correo */
+
+}
+
+td.t_47 { /* teacher Marion Adam S. Purugganan */
+
+}
+
+td.t_48 { /* teacher Marlou M. Tangalin */
+
+}
+
+td.t_49 { /* teacher Mary Ann L. Anonas */
+
+}
+
+td.t_50 { /* teacher Mary Joy Angelique R. Mojica */
+
+}
+
+td.t_51 { /* teacher Mary Rose E. Elamparo */
+
+}
+
+td.t_52 { /* teacher Melona I. Saquin */
+
+}
+
+td.t_53 { /* teacher Micah M. Sanchez */
+
+}
+
+td.t_54 { /* teacher Mildred A. Sebastian */
+
+}
+
+td.t_55 { /* teacher Muhaimin P. Macapundag */
+
+}
+
+td.t_56 { /* teacher Myla Jane Henegabuas */
+
+}
+
+td.t_57 { /* teacher Noemi A. Perida */
+
+}
+
+td.t_58 { /* teacher Quincy Mae M. Tamio */
+
+}
+
+td.t_59 { /* teacher Renz Joseph B. Quia */
+
+}
+
+td.t_60 { /* teacher Richard Adrian Kenn T. Pargan */
+
+}
+
+td.t_61 { /* teacher Richelle F. Rozol */
+
+}
+
+td.t_62 { /* teacher Ritch M. Banate */
+
+}
+
+td.t_63 { /* teacher Roderick O. Villacampa */
+
+}
+
+td.t_64 { /* teacher Rojelyn T. Pedida */
+
+}
+
+td.t_65 { /* teacher Ronnel Jul M. Sebastian */
+
+}
+
+td.t_66 { /* teacher Sheerie Mhel Colina */
+
+}
+
+td.t_67 { /* teacher Vidal */
+
+}
+
+td.t_68 { /* teacher Yohanah D. Guillermo */
+
+}
+
+/* Style the teachers' free periods */
+
+div.DESCRIPTION {
+  text-align: left;
+  font-size: smaller;
+}
+
+div.TEACHER_HAS_SINGLE_GAP {
+  color: black;
+}
+
+div.TEACHER_HAS_BORDER_GAP {
+  color: gray;
+}
+
+div.TEACHER_HAS_BIG_GAP {
+  color: silver;
+}
+
+div.TEACHER_MUST_COME_EARLIER {
+  color: purple;
+}
+
+div.TEACHER_MUST_COME_MUCH_EARLIER {
+  font-size: smaller;
+  color: fuchsia;
+}
+
+div.TEACHER_MUST_STAY_LONGER {
+  color: teal;
+}
+
+div.TEACHER_MUST_STAY_MUCH_LONGER {
+  font-size: smaller;
+  color: aqua;
+}
+
+div.TEACHER_HAS_A_FREE_DAY {
+  font-size: smaller;
+  color: red;
+}
+
+div.TEACHER_IS_NOT_AVAILABLE {
+  font-size: smaller;
+  color: olive;
+}
+
+/* End of file. */

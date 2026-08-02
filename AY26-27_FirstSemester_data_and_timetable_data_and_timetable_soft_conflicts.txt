@@ -1,0 +1,10 @@
+﻿Soft conflicts of AY26-27_FirstSemester_data_and_timetable_data_and_timetable.fet
+Generated with FET 7.9.2 on 8/2/26 1:10 PM
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Soft conflicts list (in descending order):
+
+
+End of file.
