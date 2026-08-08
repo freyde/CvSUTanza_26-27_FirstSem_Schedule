@@ -1105,7 +1105,7 @@
       <Comments></Comments>
     </Teacher>
     <Teacher>
-      <Name>Castillo Jr.</Name>
+      <Name>Julio Castillo Jr.</Name>
       <Long_Name></Long_Name>
       <Code></Code>
       <Target_Number_of_Hours>0</Target_Number_of_Hours>
@@ -1636,7 +1636,7 @@
       <Comments></Comments>
     </Teacher>
     <Teacher>
-      <Name>Vidal</Name>
+      <Name>Luis Vidal</Name>
       <Long_Name></Long_Name>
       <Code></Code>
       <Target_Number_of_Hours>0</Target_Number_of_Hours>
@@ -2305,7 +2305,7 @@
       <Comments></Comments>
     </Activity>
     <Activity>
-      <Teacher>Vidal</Teacher>
+      <Teacher>Luis Vidal</Teacher>
       <Subject>BADM 24</Subject>
       <Activity_Tag>Lecture</Activity_Tag>
       <Students>BSBA2-4</Students>
@@ -2317,7 +2317,7 @@
       <Comments></Comments>
     </Activity>
     <Activity>
-      <Teacher>Vidal</Teacher>
+      <Teacher>Luis Vidal</Teacher>
       <Subject>BADM 24</Subject>
       <Activity_Tag>Lecture</Activity_Tag>
       <Students>BSBA2-5</Students>
@@ -2329,7 +2329,7 @@
       <Comments></Comments>
     </Activity>
     <Activity>
-      <Teacher>Vidal</Teacher>
+      <Teacher>Luis Vidal</Teacher>
       <Subject>BADM 24</Subject>
       <Activity_Tag>Lecture</Activity_Tag>
       <Students>BSBA2-Irreg1</Students>
@@ -2341,7 +2341,7 @@
       <Comments></Comments>
     </Activity>
     <Activity>
-      <Teacher>Vidal</Teacher>
+      <Teacher>Luis Vidal</Teacher>
       <Subject>BADM 24</Subject>
       <Activity_Tag>Lecture</Activity_Tag>
       <Students>BSBA2-Irreg2</Students>
@@ -3469,7 +3469,7 @@
       <Comments></Comments>
     </Activity>
     <Activity>
-      <Teacher>Castillo Jr.</Teacher>
+      <Teacher>Julio Castillo Jr.</Teacher>
       <Subject>ECON 24</Subject>
       <Activity_Tag>Lecture</Activity_Tag>
       <Students>BSBA2-Irreg1</Students>
@@ -3481,7 +3481,7 @@
       <Comments></Comments>
     </Activity>
     <Activity>
-      <Teacher>Castillo Jr.</Teacher>
+      <Teacher>Julio Castillo Jr.</Teacher>
       <Subject>ECON 24</Subject>
       <Activity_Tag>Lecture</Activity_Tag>
       <Students>BSBA2-Irreg2</Students>
@@ -6756,7 +6756,7 @@
       <Comments></Comments>
     </Activity>
     <Activity>
-      <Teacher>Castillo Jr.</Teacher>
+      <Teacher>Julio Castillo Jr.</Teacher>
       <Subject>MKTG 55</Subject>
       <Activity_Tag>Lecture</Activity_Tag>
       <Students>BSBA2-4</Students>
@@ -6768,7 +6768,7 @@
       <Comments></Comments>
     </Activity>
     <Activity>
-      <Teacher>Castillo Jr.</Teacher>
+      <Teacher>Julio Castillo Jr.</Teacher>
       <Subject>MKTG 55</Subject>
       <Activity_Tag>Lecture</Activity_Tag>
       <Students>BSBA2-5</Students>
@@ -6804,7 +6804,7 @@
       <Comments></Comments>
     </Activity>
     <Activity>
-      <Teacher>Castillo Jr.</Teacher>
+      <Teacher>Julio Castillo Jr.</Teacher>
       <Subject>MKTG 75</Subject>
       <Activity_Tag>Lecture</Activity_Tag>
       <Students>BSBA3-1</Students>
@@ -6816,7 +6816,7 @@
       <Comments></Comments>
     </Activity>
     <Activity>
-      <Teacher>Castillo Jr.</Teacher>
+      <Teacher>Julio Castillo Jr.</Teacher>
       <Subject>MKTG 75</Subject>
       <Activity_Tag>Lecture</Activity_Tag>
       <Students>BSBA3-2</Students>
@@ -6828,7 +6828,7 @@
       <Comments></Comments>
     </Activity>
     <Activity>
-      <Teacher>Castillo Jr.</Teacher>
+      <Teacher>Julio Castillo Jr.</Teacher>
       <Subject>MKTG 75</Subject>
       <Activity_Tag>Lecture</Activity_Tag>
       <Students>BSBA3-3</Students>
@@ -15117,7 +15117,7 @@
     </ConstraintTeacherNotAvailableTimes>
     <ConstraintTeacherNotAvailableTimes>
       <Weight_Percentage>100</Weight_Percentage>
-      <Teacher>Castillo Jr.</Teacher>
+      <Teacher>Julio Castillo Jr.</Teacher>
       <Number_of_Not_Available_Times>78</Number_of_Not_Available_Times>
       <Not_Available_Time>
         <Day>Tue</Day>
@@ -15436,7 +15436,7 @@
     </ConstraintTeacherNotAvailableTimes>
     <ConstraintTeacherNotAvailableTimes>
       <Weight_Percentage>100</Weight_Percentage>
-      <Teacher>Vidal</Teacher>
+      <Teacher>Luis Vidal</Teacher>
       <Number_of_Not_Available_Times>144</Number_of_Not_Available_Times>
       <Not_Available_Time>
         <Day>Mon</Day>
@@ -27383,7 +27383,7 @@
     </ConstraintTeacherMinHoursDaily>
     <ConstraintTeacherMinHoursDaily>
       <Weight_Percentage>100</Weight_Percentage>
-      <Teacher>Castillo Jr.</Teacher>
+      <Teacher>Julio Castillo Jr.</Teacher>
       <Minimum_Hours_Daily>6</Minimum_Hours_Daily>
       <Allow_Empty_Days>true</Allow_Empty_Days>
       <Active>true</Active>
@@ -27647,7 +27647,7 @@
     </ConstraintTeacherMinHoursDaily>
     <ConstraintTeacherMinHoursDaily>
       <Weight_Percentage>100</Weight_Percentage>
-      <Teacher>Vidal</Teacher>
+      <Teacher>Luis Vidal</Teacher>
       <Minimum_Hours_Daily>6</Minimum_Hours_Daily>
       <Allow_Empty_Days>true</Allow_Empty_Days>
       <Active>true</Active>

@@ -1,5 +1,5 @@
 ﻿Soft conflicts of AY26-27_FirstSemester_FINAL.fet
-Generated with FET 7.9.2 on 8/8/26 11:22 PM
+Generated with FET 7.9.2 on 8/8/26 11:37 PM
 
 Number of broken soft constraints: 6
 Total soft conflicts: 5.7

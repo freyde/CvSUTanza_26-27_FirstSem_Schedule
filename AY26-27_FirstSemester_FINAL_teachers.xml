@@ -3377,7 +3377,7 @@
       </Hour>
     </Day>
   </Teacher>
-  <Teacher name="Castillo Jr.">
+  <Teacher name="Julio Castillo Jr.">
     <Day name="Mon">
       <Hour name="07:00 - 07:30">
         <Activity id="400"></Activity>
@@ -29921,7 +29921,7 @@
       </Hour>
     </Day>
   </Teacher>
-  <Teacher name="Vidal">
+  <Teacher name="Luis Vidal">
     <Day name="Mon">
       <Hour name="07:00 - 07:30">
       </Hour>
